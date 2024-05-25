@@ -27,5 +27,5 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 Here are a few projects I've worked on:
 
-1. PGAS () - Paying Guest Accommodation System. 
-2. Athlete Forge ()
+1. [PGAS](https://github.com/edwin321simon/PGAS) - Paying Guest Accommodation System. 
+2. [Athlete Forge]()
