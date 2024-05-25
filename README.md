@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ### Languages:
 - Java ☕
-- JavaScript 💻
 - PHP 🐘
 - Python 🐍
 
@@ -28,15 +27,5 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 Here are a few projects I've worked on:
 
-1. [Project Name 1](link-to-project) - Description of the project.
-2. [Project Name 2](link-to-project) - Description of the project.
-3. [Project Name 3](link-to-project) - Description of the project.
-
-## Connect with Me 🌐
-
-- LinkedIn: [Your LinkedIn Profile](link-to-LinkedIn)
-- Portfolio: [Your Portfolio Website](link-to-portfolio)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
-
-Feel free to reach out if you have any questions or would like to collaborate on a project!
-
+1. PGAS () - Paying Guest Accommodation System. 
+2. Athlete Forge ()
