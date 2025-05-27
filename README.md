@@ -1,6 +1,6 @@
 # Hello, I'm EDWIN SIMON ! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with expertise in a variety of programming languages and technologies.
+Welcome to my GitHub profile! I'm a passionate software developer with expertise in a variety of programming languages and technologies
 
 ## About Me ℹ️
 
